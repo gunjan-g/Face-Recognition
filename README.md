@@ -1,1 +1,8 @@
 # Facial-Recognition-Software
+
+The challenge is to develop an AI-powered face recognition system to identify the criminals. First, we need to do is feed an image of the crime doer into the AI-powered surveillance system. Then, the cameras would be analyzing and comparing all the faces that it detects. An alert goes off if the surveillance finds any match in the prison so that he police officers can recognize the criminal.
+
+### Objective:
+When the facial recognition technology is powered by Artificial Intelligence it can provide great results in identifying criminals. During the recent times, most individuals, while committing an unlawful activity, conceal their identity. They hide their faces or cover their faces with scarves, masks etc. In such cases, AI uses deep-learning methods to identify the individual. The method involves mapping of a face with some facial points. The distance between various facial points and the angles are analyzed. This enables one to estimate the facial structure hidden beneath a mask. It is now that the projected facial configuration is compared existing images in the database. Thus, finally the real identity of the individual is unveiled.
+
+This recognition procedure would help recognize an individual merely by running a scan on the masked face. This would be a huge benefit for the police forces in identifying as well as nabbing the criminals. This technology would help law enforcers to identify individual quickly with the use of cameras installed at strategic points and also from unmanned aircraft. The AI Facial Recognition Technology is capable of identifying criminals or suspects in most circumstances. Whereas using other existing technologies it is almost impossible to do so.
